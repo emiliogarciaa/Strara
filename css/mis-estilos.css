@@ -1,0 +1,36 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.borde-a {
+    background-color: rgba(0, 204, 255, 0.514);
+    color: cornsilk;
+    text-align: center;
+    height: 100;
+}
+
+.borde-r {
+    background-color: rgb(255, 0, 0);
+    color: yellow;
+    text-align: center;
+    height: 100;
+}
+
+.borde-v {
+    background-color: green;
+    color: blue;
+    text-align: center;
+    height: 100;
+}

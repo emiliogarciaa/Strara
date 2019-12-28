@@ -1,2 +1,0 @@
-# Strara
-Strara IoT
